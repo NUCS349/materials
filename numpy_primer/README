@@ -1,0 +1,8 @@
+In a terminal window:
+	1. Run conda install -c anaconda jupyter (NOTE: If you installed Anaconda, there's no need to run this step. If you've installed Miniconda, this is required.
+	2. Navigate to the directory that NumPy_Primer.ipynb is located in.
+	3. Run jupyter notebook. A browser window should open.
+4. In the browser window, click on the notebook file. The notebook should open.
+5. To save, press Ctrl/Cmd + s. To quit, press Ctrl/Cmd + c in the terminal window that is running the jupyter notebook server.
+
+*** If there are any questions, please post on CampusWire. ***

@@ -55,3 +55,10 @@ Most of the concepts of statistics will be introduced in the lecture; however, b
 4. Bayes' Theorem of Probability With Tree Diagrams & Venn Diagrams: https://www.youtube.com/watch?v=OByl4RJxnKA
 5. Compound Probability of Independent Events - Coins & 52 Playing Cards: https://www.youtube.com/watch?v=EHU6pVSczb4
 6. Multiplication & Addition Rule - Probability - Mutually Exclusive & Independent Events: https://www.youtube.com/watch?v=94AmzeR9n2w
+
+# Trees and Graphs (Important for Homework 1)
+The first lecture and homework will be on Decision Trees. In order to understand decision trees you need to understand what trees or graphs are. We will quickl go over this in the lectures, but it cannot hurt to have a refresher on this before the course starts. You don't have to learn those concepts by heart, but just reading through them really helps:
+1. https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8
+2. https://www.analyticsvidhya.com/blog/2018/09/introduction-graph-theory-applications-python/
+3. https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/
+4. Everything you need to know about tree data structures: https://www.freecodecamp.org/news/all-you-need-to-know-about-tree-data-structures-bceacb85490c/

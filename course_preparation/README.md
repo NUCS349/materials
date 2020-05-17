@@ -27,10 +27,19 @@ Linear Algebra is essential for understanding Machine Learning algorithms, and w
 4. This is a beautiful lecture on Linear Algebra (quite lengthy), but if you enjoy watching videos this is something to watch for you guys: https://www.youtube.com/playlist?list=PL2jykFOD1AWazz20_QRfESiJ2rthDF9-Z
 5. This is short video series on Linear Algebra, specially tailored for ML applications: https://www.youtube.com/playlist?list=PLupD_xFct8mEYg5q8itrFDuDaWKDtjSj_
 
+
 ## Introduction to Numpy and Vector Math
 Numpy will be there core package that you use in the NUCS349. We will implement most of our algorithms using numpy functionality only. 
 1. https://www.analyticsvidhya.com/blog/2017/05/comprehensive-guide-to-linear-algebra/
 2. https://www.geeksforgeeks.org/numpy-linear-algebra/
+
+## Python Slides from Machine Learning Refined (by Aggelos Konstantinos Katsaggelos, Jeremy Watt, and Reza Borhani)
+Machine Learning Refined is a great book with many online resources found here : https://github.com/jermwatt/machine_learning_refined
+I recommend having a look at the following 4 resources to get a good primer in Linear Algebra that cover almost everything that's needed for this course:
+1. Vector and Vector Operations: https://jermwatt.github.io/machine_learning_refined/notes/16_Linear_algebra/16_2_Vectors.html
+2. Matrix and Matrix Operations: https://jermwatt.github.io/machine_learning_refined/notes/16_Linear_algebra/16_3_Matrices.html
+3. Eigenvalues and Eigenvectors: https://jermwatt.github.io/machine_learning_refined/notes/16_Linear_algebra/16_4_Eigen.html
+4. Vector and Vectornorms: https://jermwatt.github.io/machine_learning_refined/notes/16_Linear_algebra/16_5_Norms.html
 
 ## Vectorizing For-Loops with Numpy
 Many of the algorithms implemented in this course will run slowly if implemented using only "for-loops." I understand that coming from a Java/C++ background, avoiding for-loops might be a bit counter-intuitive. Still, it's an essential part of data-science prototyping with Python (and even more critical in Matlab). I recommend you to use Matrix algebra WHENEVER possible because it speeds up your code tremendously! Please find some resources here:

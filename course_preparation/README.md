@@ -22,6 +22,10 @@ Jupyter Notebooks have emerged to be an essential tool for many data scientists 
 # Linear Algebra
 Linear Algebra is essential for understanding Machine Learning algorithms, and without understanding Linear Algebra, you will have a tough time in this course. Please read through the following resources to get a refresher on Linear Algebra if you feel you need it:
 1. https://machinelearningmastery.com/linear-algebra-machine-learning/
+
+The link in the video doesn't work anymore so here you find it: https://www.youtube.com/watch?v=jBSzA9q3MNU
+Here's the link for andrew Ng's linear algebra review which is not correctly linked on the blog entry anymore:  https://www.youtube.com/watch?v=Dft1cqjwlXE
+
 2. https://towardsdatascience.com/linear-algebra-for-deep-learning-f21d7e7d7f23
 3. The following is a great book chapter on Linear Algebra from the famous "Deep Learning Book". The first chapters until 2.5 are prerequisites for this course, but the other sections will be discussed in the lecture (e.g. Norms, PCA and SVD) and this book is a great resource if you want to read up on those: https://www.deeplearningbook.org/contents/linear_algebra.html
 4. This is a beautiful lecture on Linear Algebra (quite lengthy), but if you enjoy watching videos this is something to watch for you guys: https://www.youtube.com/playlist?list=PL2jykFOD1AWazz20_QRfESiJ2rthDF9-Z

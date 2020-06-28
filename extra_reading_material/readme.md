@@ -42,6 +42,18 @@ One of the best blog entries on Introduction to Machine Learning that I have rea
 
 # Lecture 4 - Measuring Distances
 
+# Blogs:
+1. 4 Distance Measures for Machine Learning: https://machinelearningmastery.com/distance-measures-for-machine-learning/
+2. Short read: 3 Common Techniques of Similarity and Distance Measure in Machine Learning https://machinelearningknowledge.ai/3-common-techniques-similarity-distance-measure-machine-learning/
+3. Mathematical description of Vector Norms: http://fourier.eng.hmc.edu/e161/lectures/algebra/node11.html
+4. Great Read: Vector Norms and Inequalities with Python https://aaronschlegel.me/vector-norms-inequalities-python.html
+5. Another Great Read: Matrix Norms and Inequalities with Python https://aaronschlegel.me/matrix-norms-inequalities-python.html
+6. Beautiful description of Mahalaobis distances and its importance: https://www.machinelearningplus.com/statistics/mahalanobis-distance/
+7. KL-divergence explained: https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained
+8. Another example of KL-divergence: https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-understanding-kl-divergence-2b382ca2b2a8
+9. Last: Importance of Distance Metrics in Machine Learning Modelling https://towardsdatascience.com/importance-of-distance-metrics-in-machine-learning-modelling-e51395ffe60d
+
+## Videos:
 1. (7min): Jupyter Notebook video on L0 and L1 distance measures: https://www.youtube.com/watch?v=-3Uq_FZkzpc
 2. (7min): Visualizing norms as unit circles: https://www.youtube.com/watch?v=SXEYIGqXSxk
 3. (6min): Short video on vector norms: https://www.youtube.com/watch?v=5fN2J8wYnfw
@@ -52,6 +64,21 @@ One of the best blog entries on Introduction to Machine Learning that I have rea
 8. (12min): A Short Introduction to Entropy, Cross-Entropy and KL-Divergence - https://www.youtube.com/watch?v=ErfnhcEV1O8
 
 # Lecture 5 - K-NN
+
+## Videos:
+1. (10min) Mathematical Monk (must watch!): https://www.youtube.com/watch?v=4ObVzTuFivY
+2. (10min) Victor Lavrenk (another must watch!): https://www.youtube.com/watch?v=k_7gMp5wh5A
+3. (50min) If you like the full blackboard lectures: https://www.youtube.com/watch?v=09mb78oiPkA
+4. (10min) Handwritten example of boundaries in KNN: https://www.youtube.com/watch?v=JtBtVNtTXRQ
+
+## Blogs
+1. KNN in Python (don't use this code, we implement it from scratch): https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/
+2. Wikipedia article is great: https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
+3. Beautiful Blog entry on KNN by Kevin Zakka: https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/
+4. Free book to download and read (for indepth understanding): ntroduction to Statistical Learning with Applications in R, Chapters 2 and 3 - http://faculty.marshall.usc.edu/gareth-james/
+5. A Detailed Introduction to K-Nearest Neighbor (KNN) Algorithm: https://saravananthirumuruganathan.wordpress.com/2010/05/17/a-detailed-introduction-to-k-nearest-neighbor-knn-algorithm/
+
+
 
 # Lecture 6 - Linear and Polyomial Regression
 

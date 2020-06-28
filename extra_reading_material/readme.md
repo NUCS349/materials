@@ -40,6 +40,25 @@ One of the best blog entries on Introduction to Machine Learning that I have rea
 3. (~60min) Amazing Lectures series with short videos on Decision Trees: https://www.youtube.com/watch?v=Pz6xX6rK5M4&list=PLBv09BD7ez_4_UoYeGrzvqveIR_USBEKD
 4. 60min: My favorite youtube lecturer has this series: https://www.youtube.com/watch?v=p17C9q2M00Q&list=PLScpSunNAuBY8E5O2s_61jToIHuYKp_c7
 
+# Lecture 4 - Measuring Distances
+
+# Lecture 5 - K-NN
+
+# Lecture 6 - Linear and Polyomial Regression
+
+## Videos
+1. (~60 min) Video series on linear regression: https://www.youtube.com/watch?v=rVviNyIR-fI
+2. (~60 min) Andrew Ng's full series on regression models: https://www.youtube.com/watch?v=kHwlB_j7Hkc&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=4
+His series Nr. 3 is refresher on Linear Algebra, but then Lecture Nr. 4 is on linear regression multiple variables: https://www.youtube.com/watch?v=Q4GNLhRtZNc&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=18
+3. (4min) Super short (but great) video on Polynomial Regression: https://www.youtube.com/watch?v=nGcMl03LPC0
+4. (9min) Great video om Polynomial Regression: https://www.youtube.com/watch?v=QptI-vDle8Y
+5. (13min) quite mathematical (but you'll need those equations) of linear regression: https://www.youtube.com/watch?v=K_EH2abOp00
+
+# Blogs
+1. Wikiedpia entry on Linear Regresion is indeed pretty good: https://en.wikipedia.org/wiki/Linear_regression
+2. Wikipedia entry on Polynomial regression is indeed pretty good: https://en.wikipedia.org/wiki/Polynomial_regression
+3. Regression is very common lecture topic in many different classes, not just ML. I found this very long and comprehensive lecture notes which basically comprise everything you need to know: https://stat.ethz.ch/education/semesters/ss2012/regression/RegressionEnglish.pdf
+
 # Lecture X - Perceptron and Linear Discriminat Analysis
 
 1. History: https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon

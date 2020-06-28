@@ -23,7 +23,7 @@ One of the best blog entries on Introduction to Machine Learning that I have rea
 
 ## Videos:
 1. (15min) Amazing video von Bayes Theorem: https://www.youtube.com/watch?v=HZGCoVF3YvM
-2. (15) another amazing tutorial explaining concepts in probability: https://www.youtube.com/watch?v=SrEmzdOT65s
+2. (15min) another amazing tutorial explaining concepts in probability: https://www.youtube.com/watch?v=SrEmzdOT65s
 3. (7min) https://www.youtube.com/watch?v=Zt83JnjD8zg
 4. (30min) Super cool video on how to use Naive Bayes for text classification)
 
@@ -41,6 +41,15 @@ One of the best blog entries on Introduction to Machine Learning that I have rea
 4. 60min: My favorite youtube lecturer has this series: https://www.youtube.com/watch?v=p17C9q2M00Q&list=PLScpSunNAuBY8E5O2s_61jToIHuYKp_c7
 
 # Lecture 4 - Measuring Distances
+
+1. (7min): Jupyter Notebook video on L0 and L1 distance measures: https://www.youtube.com/watch?v=-3Uq_FZkzpc
+2. (7min): Visualizing norms as unit circles: https://www.youtube.com/watch?v=SXEYIGqXSxk
+3. (6min): Short video on vector norms: https://www.youtube.com/watch?v=5fN2J8wYnfw
+4. (10min): Mahalaobis Distance (weighted norms): https://www.youtube.com/watch?v=3IdvoI8O9hU
+5. (42min): Classical Black-Board lecture on Norms (I do like those ...): https://www.youtube.com/watch?v=NcPUI7aPFhA
+6. (13min): Levensthein Edit Distane: https://www.youtube.com/watch?v=Xxx0b7djCrs
+7. (10min): KL-divergence: https://www.youtube.com/watch?v=LJwtEaP2xK
+8. (12min): A Short Introduction to Entropy, Cross-Entropy and KL-Divergence - https://www.youtube.com/watch?v=ErfnhcEV1O8
 
 # Lecture 5 - K-NN
 

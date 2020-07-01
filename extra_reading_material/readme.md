@@ -111,6 +111,16 @@ https://www.pearsonhighered.com/assets/samplechapter/0/1/3/1/0131471392.pdf
 
 # Lecture 8 - Logistic Regression
 
+## Video:
+1. (9min) [Introduction to Regression](https://www.youtube.com/watch?v=yIYKR4sgzI8), [Part 2](https://www.youtube.com/watch?v=BfKanl1aSG0)
+2. (10min) [Andrew Ng's Lecture Series on Logistic Regression](https://www.youtube.com/watch?v=-la3q9d7AKQ)
+3. (15min) [Mathematic Monk AWESOME video on logistic regression](https://www.youtube.com/watch?v=-Z2a_mzl9LM)
+
+## Blogs:
+1. [Detailed Overview, but great](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)
+2. [Just a great introduction to logistic regression](https://christophm.github.io/interpretable-ml-book/logistic.html)
+3. [Wikipedia is very comprehensive and maybe too much, but it's still pretty helpful](https://en.wikipedia.org/wiki/Logistic_regression)
+
 # Lecture 9 - Gradient Descent for Optimizing the Loss Function
 
 ## Recap on Partial Derivatives and the Gradient of multi-dimensional functions

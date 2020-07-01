@@ -95,46 +95,53 @@ His series Nr. 3 is refresher on Linear Algebra, but then Lecture Nr. 4 is on li
 2. Wikipedia entry on Polynomial regression is indeed pretty good: https://en.wikipedia.org/wiki/Polynomial_regression
 3. Regression is very common lecture topic in many different classes, not just ML. I found this very long and comprehensive lecture notes which basically comprise everything you need to know: https://stat.ethz.ch/education/semesters/ss2012/regression/RegressionEnglish.pdf
 
-# Lecture X - Perceptron and Linear Discriminat Analysis
+# Lecture 7 - Perceptron and Linear Discriminat Analysis
 
-1. History: https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon
-2. Very Comprehensive, but mathy overview of Perceptron and relations to other ML-algorithms:
-https://www.pearsonhighered.com/assets/samplechapter/0/1/3/1/0131471392.pdf
+[Some history on the importance of perceptrons] (https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon)
 
 ## Videos
-1. Really nice Video Introduction: https://www.youtube.com/watch?v=4Gac5I64LM4
-2. Alternative Video: https://www.youtube.com/watch?v=5g0TPrxKK6o
+1. (13min)[Really nice Video Introduction](https://www.youtube.com/watch?v=4Gac5I64LM4)
+2. (9min)[Another great introduction video](https://www.youtube.com/watch?v=5g0TPrxKK6o)
+3. (45min) [Beautiful, quite easy series on perceptrons](https://www.youtube.com/watch?v=jbluHIgBmBo)
 
+## Readings 
+1. Very Comprehensive, but mathy overview of Perceptron and relations to other ML-algorithms:
+https://www.pearsonhighered.com/assets/samplechapter/0/1/3/1/0131471392.pdf
+2. [A nice (not super mathy) blog on perceptrons (I recommend!!!)[https://towardsdatascience.com/perceptron-learning-algorithm-d5db0deab975]
 
-# Lecture X - Gradient Descent
+# Lecture 8 - Logistic Regression
 
-## Blog Entries
-1. All about the gradient (amazing pics): https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/the-gradient
-2. A bunch of examples where gradients are caculated: https://www.varsitytutors.com/linear_algebra-help/the-gradient
-3. Linear Algebra and the Gradient (Deriving gradients with matrices, super important for ML): https://www.varsitytutors.com/linear_algebra-help/the-gradient
-4. Understanding the math behind Gradient Descent: https://towardsdatascience.com/understanding-the-mathematics-behind-gradient-descent-dde5dc9be06e
+# Lecture 9 - Gradient Descent for Optimizing the Loss Function
 
-Videos:
-1. Introduction to Gradient Descent (video): https://www.youtube.com/watch?v=sDv4f4s2SB8
+## Recap on Partial Derivatives and the Gradient of multi-dimensional functions
+1. [What is a partical derivative ?](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/introduction-to-partial-derivatives) and then [What is the Gradient](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/the-gradient)
+2. [A pretty nice sub-wiki which really covers everything you need to know](https://calculus.subwiki.org/wiki/Gradient_vector)
+3. [This is deep learning blog, but everything said on Gradients is generally true and I really like this blog entry](https://towardsdatascience.com/step-by-step-the-math-behind-neural-networks-490dc1f3cfd9)
+4. A bunch of examples where gradients are caculated: https://www.varsitytutors.com/linear_algebra-help/the-gradient
+5. Linear Algebra and the Gradient (Deriving gradients with matrices, super important for ML): https://www.varsitytutors.com/linear_algebra-help/the-gradient
+6. Understanding the math behind Gradient Descent: https://towardsdatascience.com/understanding-the-mathematics-behind-gradient-descent-dde5dc9be06e
+
+## Understanding Gradient Descent Algorithm
+1. (22min)[Step-by-Step introduction](https://www.youtube.com/watch?v=sDv4f4s2SB8)
 2. Gradient Descent - THE MATH YOU SHOULD KNOW: https://www.youtube.com/watch?v=-p1ldISb90Q
 
-Book/ more scientific papers and reads:
+
+### Book/ more scientific papers and reads:
 1. Great (no, amazing) book on convex optimization (read chapter 1 - Introduction on a broad overview of Optimization not limited to Gradient Descent): https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf 
 A few notes on this book: Every applied math/computer scientist grad student should have read this book (or at least large parts of it). (Convex) Optimization is such an important field which you'll find every where. Obviously, we can't teach it in this class, but I recommend you this book a lot!
 2. An overview of gradient descent optimizationalgorithms (quite scientific but gives comprehensive overview): https://arxiv.org/pdf/1609.04747.pdf
 
-## Regularization
+# Lecture 9.2 Part - Regularization
+
+## Occam’s Razor (preferring simpler models):
+1. [Nice, basic video (without any math)] (https://www.youtube.com/watch?v=M5WDdvkFaDg)
+2. [A bit more mathy video on Occam Razor for ML](https://www.youtube.com/watch?v=Q_AclBHCaUo)
 
 ### Blogs:
 1. Intuition of Regularization (blog): https://towardsdatascience.com/intuitions-on-l1-and-l2-regularisation-235f2db4c261
 
-
-## Occam’s Razor (preferring simpler models):
-1. Nice, basic video (without any math): https://www.youtube.com/watch?v=M5WDdvkFaDg
-2. OR for ML: https://www.youtube.com/watch?v=Q_AclBHCaUo
-
 ### Videos
-1. Andrew NG  - 7.1 Regularization | The Problem Of Overfitting: https://www.youtube.com/watch?v=u73PU6Qwl1I
-2. Andrew NG  - 7.2 — Regularization | Cost Function: https://www.youtube.com/watch?v=KvtGD37Rm5I
-3. Andrew NG  - 7.3 — Regularization | Regularized Linear Regression https://www.youtube.com/watch?v=qbvRdrd0yJ8
-4. Lp regularization penalties; comparing L2 vs L1: https://www.youtube.com/watch?v=sO4ZirJh9ds
+1. Andrew NG series on Regularization [Part1: The Problem Of Overfitting](https://www.youtube.com/watch?v=u73PU6Qwl1I), [Part 2: Lost Function]( https://www.youtube.com/watch?v=KvtGD37Rm5I ), [Part 3: Regularized Linear Regression] ( https://www.youtube.com/watch?v=qbvRdrd0yJ8 )
+2. Lp regularization penalties; comparing L2 vs L1: https://www.youtube.com/watch?v=sO4ZirJh9ds
+3. Josh Stormers regularization video: [Part 1](https://www.youtube.com/watch?v=Q81RR3yKn30), [Part 2](https://www.youtube.com/watch?v=NGf0voTMlcs)
+

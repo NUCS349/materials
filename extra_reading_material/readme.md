@@ -149,6 +149,8 @@ A few notes on this book: Every applied math/computer scientist grad student sho
 
 ### Blogs:
 1. Intuition of Regularization (blog): https://towardsdatascience.com/intuitions-on-l1-and-l2-regularisation-235f2db4c261
+2. Great read from Berkley with amazing derivations: http://courses.ieor.berkeley.edu/ieor165/lecture_notes/ieor165_lec8.pdf
+3. A concise but pretty clear read on how prior probability and regularization terms are connected: https://rohanvarma.me/Regularization/
 
 ### Videos
 1. Andrew NG series on Regularization [Part1: The Problem Of Overfitting](https://www.youtube.com/watch?v=u73PU6Qwl1I), [Part 2: Lost Function]( https://www.youtube.com/watch?v=KvtGD37Rm5I ), [Part 3: Regularized Linear Regression] ( https://www.youtube.com/watch?v=qbvRdrd0yJ8 )

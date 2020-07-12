@@ -157,3 +157,22 @@ A few notes on this book: Every applied math/computer scientist grad student sho
 2. Lp regularization penalties; comparing L2 vs L1: https://www.youtube.com/watch?v=sO4ZirJh9ds
 3. Josh Stormers regularization video: [Part 1](https://www.youtube.com/watch?v=Q81RR3yKn30), [Part 2](https://www.youtube.com/watch?v=NGf0voTMlcs)
 
+# Lecture 10 - Support Vector Machines
+
+## Blogs and Reading
+1. [Great introduction by a stanford ](https://nlp.stanford.edu/IR-book/html/htmledition/support-vector-machines-the-linearly-separable-case-1.html)
+2. [Support Vector Machine — Simply Explained]https://towardsdatascience.com/support-vector-machine-simply-explained-fee28eba5496
+3. [Blog: Another quick read](https://medium.com/towards-artificial-intelligence/support-vector-machine-svm-a-visual-simple-explanation-part-1-a7efa96444f2)
+
+4. [Lecture Slides: Just great lecture slides that I've enjoyed on SVM](https://www.cs.cmu.edu/~tom/10701_sp11/slides/Kernels_SVM2_04_12_2011-ann.pdf)
+5. [Andre Ng's lecture notes: These are one of the best. Read through those if you really want to dig into them](http://cs229.stanford.edu/notes/cs229-notes3.pdf)
+
+## Video Material
+1. [Andrew Ng's Video series on SVM is amazing:](https://www.youtube.com/watch?v=hCOIMkcsm_g&list=PLNeKWBMsAzboNdqcm4YY9x7Z2s9n9q_Tb)
+2. [(20min) Statquest is always a great resource](https://www.youtube.com/watch?v=efR1C6CvhmE)
+3. [(10min) The math you should know](https://www.youtube.com/watch?v=05VABNfa1ds)
+4. [80min: If you wanna see a black-board lecture by Andrew Ng on SVM](https://www.youtube.com/watch?v=lDwow4aOrtg)
+
+
+# Lecture 11 - Principial Component Analaysis
+

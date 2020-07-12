@@ -161,9 +161,8 @@ A few notes on this book: Every applied math/computer scientist grad student sho
 
 ## Blogs and Reading
 1. [Great introduction by a stanford ](https://nlp.stanford.edu/IR-book/html/htmledition/support-vector-machines-the-linearly-separable-case-1.html)
-2. [Support Vector Machine — Simply Explained]https://towardsdatascience.com/support-vector-machine-simply-explained-fee28eba5496
+2. [Support Vector Machine — Simply Explained](https://towardsdatascience.com/support-vector-machine-simply-explained-fee28eba5496
 3. [Blog: Another quick read](https://medium.com/towards-artificial-intelligence/support-vector-machine-svm-a-visual-simple-explanation-part-1-a7efa96444f2)
-
 4. [Lecture Slides: Just great lecture slides that I've enjoyed on SVM](https://www.cs.cmu.edu/~tom/10701_sp11/slides/Kernels_SVM2_04_12_2011-ann.pdf)
 5. [Andre Ng's lecture notes: These are one of the best. Read through those if you really want to dig into them](http://cs229.stanford.edu/notes/cs229-notes3.pdf)
 
@@ -175,4 +174,33 @@ A few notes on this book: Every applied math/computer scientist grad student sho
 
 
 # Lecture 11 - Principial Component Analaysis
+
+## Curse-of-dimensionality
+1. [(3min) All you need to know](https://www.youtube.com/watch?v=QZ0DtNFdDko)
+2. [(40min) If you really want to understand it, watch this lecture](https://www.youtube.com/watch?v=BbYV8UfMJSA)
+3. [BLOG: Absolutely beautiful explanation! Read this, super rewarding](https://www.visiondummy.com/2014/04/curse-dimensionality-affect-classification/)
+
+# Math Primer on SVD
+1. [Super nice series on SVD](https://www.youtube.com/watch?v=gXbThCXjZFM&list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv)
+2. [Blog Entry](https://andrew.gibiansky.com/blog/mathematics/cool-linear-algebra-singular-value-decomposition/)
+3. [2D-visualizaton tool for SVD](https://lambein.xyz/blog/2018/12/20/svd-visualization.html)
+
+## Videos on PCA
+1. [I love Victor Lavrenkos video. To me this is a must watch!!!](http://bit.ly/PCA-alg)
+2. [(20min) StatQuest makes great videos](https://www.youtube.com/watch?v=_UVHneBUBW0)
+https://www.visiondummy.com/2014/04/curse-dimensionality-affect-classification/
+
+## Blogs on PCA
+1. [A One-Stop Shop for Principal Component Analysis](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c)
+2. [Absolutely stunning interactive visualization of PCA in 2D and 3D](https://setosa.io/ev/principal-component-analysis/)
+3. [Blog: I've taken much inspirtation for my lecture from here](https://www.visiondummy.com/2014/05/feature-extraction-using-pca/)
+
+## Practial stuff to know when doing dimensionality reduction
+1. [MUST READ: About Feature Scaling and Normalization](https://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
+2. [Understanding the Difference Between Normalization vs. Standardization](https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/)
+
+## Eigenfaces (the standard example for PCA)
+1. [(6min) Nice visualizations](https://www.youtube.com/watch?v=J0arU2PAMls)
+2. [Small tutorial on Eigenfaces](http://blog.manfredas.com/eigenfaces-tutorial/)
+3. [Another great tutorial for eigenfaces](https://bastian.rieck.me/blog/posts/2015/eigenfaces_reconstruction/)
 

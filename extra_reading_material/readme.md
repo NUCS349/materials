@@ -225,18 +225,27 @@ https://www.visiondummy.com/2014/04/curse-dimensionality-affect-classification/
 1. (8min)[K-Means initiliaztion with K++ explained concisce](https://www.youtube.com/watch?v=HatwtJSsj5Q)
 2. (10min)[Coursera Video on K++ initialization, great and calm resource. Watch it if you want to understand it in detail](https://www.coursera.org/lecture/ml-clustering-and-retrieval/smart-initialization-via-k-means-T9ZaG)
 3. [The original paper on K-means++ on good initialization (over 5000 citations)](http://ilpubs.stanford.edu:8090/778/1/2006-13.pdf)
-4. [Blog entry on K-means++ with Python example (feel free to use this for your implementation)[https://www.geeksforgeeks.org/ml-k-means-algorithm/}
+4. [Blog entry on K-means++ with Python example - feel free to use this for your implementation](http://www.geeksforgeeks.org/ml-k-means-algorithm/)
 
 
-# Lecture 13 - Gaussian Mixture Models
+# Lecture 13 - Gaussian Mixture Models and Expectation Maximization
+
+Gaussian Micture Models are a more "mathematical/statistical" augmentation of the soft K-means clustering algorithm. They can become pretty mathematical (as you've probably seen from my lecture videos. One of the biggest things to understand is the "Expectation Maximization" algorithm. Once derived and written down in formulars, there's really not so much to do for you, but I really urge you to try understanding what is the theory behind it.
+
 # Videos
+1. (12min)[Beautiful video, not really going in to the maths. Watch this first!!!](https://www.youtube.com/watch?v=DODphRRL79c)
+2. (14min)[Mathmatical Monk's video are always great](https://www.youtube.com/watch?v=Rkl30Fr2S38)
+3. [Amazing lecture series on Mixture models and great explanation of the EM-Algorithm by Victor Lavrenko. PLEASE watch](https://www.youtube.com/watch?v=REypj2sy_5U&list=PLBv09BD7ez_4e9LtmK626Evn1ion6ynrt) 
+4. [Great, short, concise introduction to GMM](https://www.youtube.com/watch?v=EWd1xRkyEog)
 
 # Blogs
-1. [Great blog entry on GMM](https://towardsdatascience.com/gaussian-mixture-models-explained-6986aaf5a95)
-2. [A bite more mathy, but more comprehensive blog](https://medium.com/@jonathan_hui/machine-learning-expectation-maximization-algorithm-em-2e954cb76959)
+1. [Great blog entry on GMM (MUST READ)](https://towardsdatascience.com/gaussian-mixture-models-explained-6986aaf5a95)
+2. [A bite more mathy, but more comprehensive blog (MUST READ)](https://medium.com/@jonathan_hui/machine-learning-expectation-maximization-algorithm-em-2e954cb76959)
 3. [Great Jupyter notebook example](https://github.com/ocontreras309/ML_Notebooks/blob/master/GMM_Implementation.ipynb)
-4. Super nice and clear lecture series on GMM:
-
-
-(or all lectures, start with 16.1: https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA (Links to an external site.) )
+4. [All the math you need](https://brilliant.org/wiki/gaussian-mixture-model/)
+5. [Lecture notes on Mixture Models (only if you have time)](https://www.cs.ubc.ca/~murphyk/Teaching/CS340-Fall06/reading/mixtureModels.pdf)
+6. [Distilling Gaussian Mixture Models](https://medium.com/sfu-cspmp/distilling-gaussian-mixture-models-701fa9546d9)
+7. [GMM with Scikit learn, cannot be used for HW, but still nice to read](https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html)
+8. [GMM with Python code, you might be able to extract some parts for you HW](https://towardsdatascience.com/gaussian-mixture-models-gmm-6e95cbc38e6e)
+9. [GMM with Pseudo-code - consice introduction](https://www.geeksforgeeks.org/gaussian-mixture-model/)
 

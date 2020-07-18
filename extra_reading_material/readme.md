@@ -204,3 +204,39 @@ https://www.visiondummy.com/2014/04/curse-dimensionality-affect-classification/
 2. [Small tutorial on Eigenfaces](http://blog.manfredas.com/eigenfaces-tutorial/)
 3. [Another great tutorial for eigenfaces](https://bastian.rieck.me/blog/posts/2015/eigenfaces_reconstruction/)
 
+# Lecture 12 - K-Means Clustering
+
+## Videos
+1. (13min and 14min) Mathematical Monk! Create Video Series, MUST WATCH [Part 1](https://www.youtube.com/watch?v=0MQEt10e4NM&list=PLD0F06AA0D2E8FFBA&index=115&t=0s),[Part 2](https://www.youtube.com/watch?v=4shfFAArxSc&list=PLD0F06AA0D2E8FFBA&index=115)
+2. (8min)[ Short video by victor Lavrenko](https://www.youtube.com/watch?v=_aWzGGNrcic)
+3. Andrew NG's Video series Unsupervised Learning (clustering) [Part 1 (3min) ](https://www.youtube.com/watch?v=Ev8YbxPu_bQ&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=76), [Part 2](https://www.youtube.com/watch?v=hDmNF9JG3lo&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=77), other parts just follow up
+4. Alexander Ihler's great clustering series (MUST WATCH) [Clustering](https://www.youtube.com/watch?v=6R16reLVl3I&list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw&index=32&t=0s), [Hierarchical Agglomerative Clustering (wasn't discussed in class)](https://www.youtube.com/watch?v=OcoE7JlbXvY&list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw&index=32), [K-Means clustering](https://www.youtube.com/watch?v=mfqmoUN-Cuw&list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw&index=33), 
+5. (3min) [Soft clustering, super concise](https://www.youtube.com/watch?v=_gTagx25MQs), [GMM](https://www.youtube.com/watch?v=qMTuMa86NzU&list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw&index=34)
+6. (13min) [A standford lecture on K-Means with a small theoretical discussion on initialization and complexity at the end](https://www.youtube.com/watch?v=RD0nNK51Fp8)
+
+
+## Blogs and Reading
+1. [Understanding K-means Clustering in Machine Learning](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1)
+2. [The Most Comprehensive Guide to K-Means Clustering You’ll Ever Need](https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/)
+3. [K-means with sci-kit learn (not to be used since you have to implement yourself, but still great resource](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)
+4. [K-means clustering with pesudo-code. Please refer to this one](https://stanford.edu/~cpiech/cs221/handouts/kmeans.html)
+
+## Initialization methods
+1. (8min)[K-Means initiliaztion with K++ explained concisce](https://www.youtube.com/watch?v=HatwtJSsj5Q)
+2. (10min)[Coursera Video on K++ initialization, great and calm resource. Watch it if you want to understand it in detail](https://www.coursera.org/lecture/ml-clustering-and-retrieval/smart-initialization-via-k-means-T9ZaG)
+3. [The original paper on K-means++ on good initialization (over 5000 citations)](http://ilpubs.stanford.edu:8090/778/1/2006-13.pdf)
+4. [Blog entry on K-means++ with Python example (feel free to use this for your implementation)[https://www.geeksforgeeks.org/ml-k-means-algorithm/}
+
+
+# Lecture 13 - Gaussian Mixture Models
+# Videos
+
+# Blogs
+1. [Great blog entry on GMM](https://towardsdatascience.com/gaussian-mixture-models-explained-6986aaf5a95)
+2. [A bite more mathy, but more comprehensive blog](https://medium.com/@jonathan_hui/machine-learning-expectation-maximization-algorithm-em-2e954cb76959)
+3. [Great Jupyter notebook example](https://github.com/ocontreras309/ML_Notebooks/blob/master/GMM_Implementation.ipynb)
+4. Super nice and clear lecture series on GMM:
+
+
+(or all lectures, start with 16.1: https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA (Links to an external site.) )
+

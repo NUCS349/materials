@@ -263,6 +263,27 @@ There's a myriad of absolutely amazing lectures series on Deep Learning. I'm try
 2. [(60min) Lex Fridman from MIT gives a stunning overview over Deep Learning and the Big Picture. This is a MUST watch for putting everything in concepts](https://www.youtube.com/watch?v=O5xeyoRL95U)
 3. [Andrew Ngs introduction of Neural Networks is amazing. Please watch](https://www.youtube.com/watch?v=1ZhtwInuOD0&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=44&t=0s)
 
+## Tutorials and Blogs
+
+### Neural Nets
+1. [(Blog) Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
+2. [(Python Tutorial) How to Code a Neural Network with Backpropagation In Python (from scratch)](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
+3. [The Wikipedia article is actually quite informative](https://en.wikipedia.org/wiki/Feedforward_neural_network)
+4. [(Blog) Deep Learning: Feedforward Neural Network](https://towardsdatascience.com/deep-learning-feedforward-neural-network-26a6705dbdc7)
+
+### Activation Functions
+1. [(Blog) 7 Types of Neural Network Activation Functions: How to Choose?](https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/)
+2. [(Blog) Understanding Activation Functions in Neural Networks](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)
+3. [(Blog) Everything you need to know about “Activation Functions” in Deep learning models](https://towardsdatascience.com/everything-you-need-to-know-about-activation-functions-in-deep-learning-models-84ba9f82c253)
+4. [Amazing overview over different activation functions with animations](https://mlfromscratch.com/activation-functions-explained/#/)
+
+### Backprogataion
+1. [(Blog) A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+2. [(Lectures Notes) How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
+3. [Lecture Slides by Li-Fei Fei on Backprop](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture4.pdf)
+4. [Lectures Notes by Cornell](https://www.cs.cornell.edu/courses/cs5740/2016sp/resources/backprop.pdf)
+5. [(Blog) Neural networks and back-propagation explained in a simple way](https://medium.com/datathings/neural-networks-and-backpropagation-explained-in-a-simple-way-f540a3611f5e)
+
 ## Activation Functions
 1. [(5min) Activation Functions Explained](https://www.youtube.com/watch?v=m0pIlLfpXWE)
 2. [(10min) Activation functions again, different take[(https://www.youtube.com/watch?v=s-V7gKrsels)
@@ -282,11 +303,37 @@ There's a myriad of absolutely amazing lectures series on Deep Learning. I'm try
 
 # Lecture 15 - Convolutational Neural Networks
 
+For Convolutational Networks I usually would refer to the same book as I did for Lecture 14 - Intro to NN. The Deep Learning book is maybe the best resource for finding information!
+
+## Videos
 1. [(9min)CNN explained simple for quick and dirty overview](https://www.youtube.com/watch?v=YRhxdVk_sIs)
 2. [(32min) A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
 3. [(60min) Brandon Rohrer: How convolutional neural networks work. This is REALLY in DEPTH. Amazing overview](https://www.youtube.com/watch?v=JB8T_zN7ZC0)
+
+## Blogs and Reading Material
+1. [(Great tutorial) An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+2. [(Blog) Understanding of Convolutional Neural Network (CNN) — Deep Learning](https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148)
+3. [(Tutorial) Convolutional Neural Networks Tutorial in PyTorch](https://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-in-pytorch/)
+4. [(Tutorial) Build an Image Classification Model using Convolutional Neural Networks in PyTorch](https://www.analyticsvidhya.com/blog/2019/10/building-image-classification-models-cnn-pytorch/)
+5. [(Tutorial) Li-Fei Feis course notes are amazing to read! Must read for undersstanding](https://cs231n.github.io/convolutional-networks/)
+
+## Convolultion Arthithmetics
+1. [Convolution arithmetic tutorial](http://deeplearning.net/software/theano/tutorial/conv_arithmetic.html)
+2. [(Paper) A guide to convolution arithmetic for deeplearning](https://arxiv.org/pdf/1603.07285.pdf)
+3. [(Tutorial) A Comprehensive Introduction to Different Types of Convolutions in Deep Learning](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215)
+4. [Understanding transposed convolutions](https://www.machinecurve.com/index.php/2019/09/29/understanding-transposed-convolutions/)
+
+## How to calculate Input/Output sizes
+1. [Quora 1](https://www.quora.com/How-can-I-calculate-the-size-of-output-of-convolutional-layer)
+2. [Stackoverflow 1](https://stackoverflow.com/questions/53580088/calculate-the-output-size-in-convolution-layer)
+3. [(Blog) How to calculate the number of parameters in the CNN?](https://medium.com/@iamvarman/how-to-calculate-the-number-of-parameters-in-the-cnn-5bd55364d7ca)
 
 ## Feature Visualization
 
 1. [How neural networks learn' - Part I: Feature Visualization](https://www.youtube.com/watch?time_continue=603&v=McgxRxi2Jqo&feature=emb_logo)
 2. [(7min) Visualizing Convolutional Filters from a CNN](https://www.youtube.com/watch?v=cNBBNAxC8l4)
+3. [(Visualization website) Visualizing Neural Networks with the Grand Tour](https://distill.pub/2020/grand-tour/)
+4. [Computing Receptive Fields of Convolutional Neural Networks](https://distill.pub/2019/computing-receptive-fields/)
+5. [Exploring Neural Networks with Activation Atlases](https://distill.pub/2019/activation-atlas/)
+6. [Differentiable Image Parameterizations)[https://distill.pub/2018/differentiable-parameterizations/)
+7. [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/)

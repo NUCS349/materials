@@ -249,3 +249,44 @@ Gaussian Micture Models are a more "mathematical/statistical" augmentation of th
 8. [GMM with Python code, you might be able to extract some parts for you HW](https://towardsdatascience.com/gaussian-mixture-models-gmm-6e95cbc38e6e)
 9. [GMM with Pseudo-code - consice introduction](https://www.geeksforgeeks.org/gaussian-mixture-model/)
 
+# Lecture 14 - Introduction to Neural Networks
+
+There's a myriad of absolutely amazing lectures series on Deep Learning. I'm trying to include here a good mixture of videos, books and blog entries that cover the basics concepts that I deem necessary.
+
+## Books
+1. [MUST READ FOR EVERYONE: Deep Learning Book by Ian Goodfellow and Yoshua Bengio and Aaron Courville (This is the DL-bible)](https://www.deeplearningbook.org/)
+2. [DeepLearning with PyTorch which covers all the basics and how to implement](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
+
+## Video Series
+1. [(4 videos, 60mins)3Blue1Brown on DeepLearning is MUST watch](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+1. [(60min over 12 videos)Victor Lavrenkos are comprehensive and will give you everything you need!](https://www.youtube.com/watch?v=jZYz0EUPYBI&list=PLBv09BD7ez_4Bs9j3o8l_ZTjQZoN_3Oqs)
+2. [(60min) Lex Fridman from MIT gives a stunning overview over Deep Learning and the Big Picture. This is a MUST watch for putting everything in concepts](https://www.youtube.com/watch?v=O5xeyoRL95U)
+3. [Andrew Ngs introduction of Neural Networks is amazing. Please watch](https://www.youtube.com/watch?v=1ZhtwInuOD0&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=44&t=0s)
+
+## Activation Functions
+1. [(5min) Activation Functions Explained](https://www.youtube.com/watch?v=m0pIlLfpXWE)
+2. [(10min) Activation functions again, different take[(https://www.youtube.com/watch?v=s-V7gKrsels)
+3. [(15min) Why Activation Function and Which One Should You Use?](https://www.youtube.com/watch?v=MuYnv4_5ZcI)
+
+## Backprogation
+1. [(11min) Backpropagation explained | Part 1 - The intuition](https://www.youtube.com/watch?v=XE3krf3CQls)
+2. [(15min) Brandon Rohrer is able to explain Backprogation USING daily life physics. Stunning example how you can make things simple](https://www.youtube.com/watch?v=6BMwisTZFr4)
+3. [(11min) What's better than having Backprogagation explained from the inventor itself? See Geoffrey Hinton's take on it!](https://www.youtube.com/watch?v=LOc_y67AzCA)
+
+
+## Fun Things
+1. [Neural Networks learning Spirals if you cannot figure it out yourself](https://www.youtube.com/watch?v=i3ZnDRrmFjg)
+2. [(6min) The Universal Approximation Theorem for neural networks](https://www.youtube.com/watch?v=Ijqkc7OLenI)
+3. [Neural Network learning to play Snake](https://www.youtube.com/watch?v=zIkBYwdkuTk)
+4. [(5min) Neural network racing cars around a track](https://www.youtube.com/watch?v=wL7tSgUpy8w)
+
+# Lecture 15 - Convolutational Neural Networks
+
+1. [(9min)CNN explained simple for quick and dirty overview](https://www.youtube.com/watch?v=YRhxdVk_sIs)
+2. [(32min) A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
+3. [(60min) Brandon Rohrer: How convolutional neural networks work. This is REALLY in DEPTH. Amazing overview](https://www.youtube.com/watch?v=JB8T_zN7ZC0)
+
+## Feature Visualization
+
+1. [How neural networks learn' - Part I: Feature Visualization](https://www.youtube.com/watch?time_continue=603&v=McgxRxi2Jqo&feature=emb_logo)
+2. [(7min) Visualizing Convolutional Filters from a CNN](https://www.youtube.com/watch?v=cNBBNAxC8l4)

@@ -316,6 +316,7 @@ For Convolutational Networks I usually would refer to the same book as I did for
 3. [(Tutorial) Convolutional Neural Networks Tutorial in PyTorch](https://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-in-pytorch/)
 4. [(Tutorial) Build an Image Classification Model using Convolutional Neural Networks in PyTorch](https://www.analyticsvidhya.com/blog/2019/10/building-image-classification-models-cnn-pytorch/)
 5. [(Tutorial) Li-Fei Feis course notes are amazing to read! Must read for undersstanding](https://cs231n.github.io/convolutional-networks/)
+6. [Amazing tutorial that explains the channels really well. I couldn't go into that detail in my lecture](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215)
 
 ## Convolultion Arthithmetics
 1. [Convolution arithmetic tutorial](http://deeplearning.net/software/theano/tutorial/conv_arithmetic.html)

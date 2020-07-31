@@ -338,3 +338,7 @@ For Convolutational Networks I usually would refer to the same book as I did for
 5. [Exploring Neural Networks with Activation Atlases](https://distill.pub/2019/activation-atlas/)
 6. [Differentiable Image Parameterizations)[https://distill.pub/2018/differentiable-parameterizations/)
 7. [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/)
+
+# Lecture 16
+
+1. [Reinforcment Learning for self-study, several links:](https://github.com/hollygrimm/markov-decision-processes)

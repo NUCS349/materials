@@ -342,5 +342,30 @@ For Convolutational Networks I usually would refer to the same book as I did for
 # Lecture 16 - Reinforcement Learning
 Reinforcment learning (RL) is a big part of Machine Learning and as itself such a huge field that we can only introduce the very basics of it in this course. Our lecture series focuses on defining the basic terminology that is required to understand what RL is about. We are discussing Q-Learning as example of off-policy learning that you'll have to implement in the HWs next to the simple Multi-Armed-Bandit Problem. Lastly, we show how we can combine Deep Learning and RL for so-called Deep Reinforcement Learning that for examples allows RL-Agents to play atari games based on only video input.
 
+## Book - Your most important resource for RL
+Barto and Sutton's book on Reinforcement Learning is extremely well written and introduces you to RL like no other resource can do. For a proper understanding of the concepts discussed in 349 I recommend reading the following chapters:  Introduction and Tabular Methods (Chap. 1 to 6). The other parts are amazing, but go way beyond what we can do in the limited time we spend on RL in 349:
 
+Link to book: https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf
+
+## Videos
+There are many amazing videos on Reinforcement Learning. I particularly, I like the 2 videos linked here because they give an amazing introduction into the topic. Especially, Lex Fridman has a great way of teaching with talking about the bigger picture behind AI, Deep Learning and RL. He will defintely excite you about the topic.
+
+1. [I've enjoyed Lex Fridman's video on Deep Reinforcement Learning a lot. ](https://www.youtube.com/watch?v=zR11FLZ-O9M)
+2. [Edureka 40min is a great resource which I found very instructive](https://www.youtube.com/watch?v=LzaWrmKL1Z4)
+
+## General Reinforcement Learning
 1. [Reinforcment Learning for self-study, several links:](https://github.com/hollygrimm/markov-decision-processes)
+2. [Crystal Clear Reinforcement Learning: This tutorial/blog is very comprehensive and inclusive](https://towardsdatascience.com/crystal-clear-reinforcement-learning-7e6c1541365e)
+
+## Markov-Decision-Process
+1. [Reinforcement Learning : Markov-Decision Process (Part 1)](https://towardsdatascience.com/introduction-to-reinforcement-learning-markov-decision-process-44c533ebf8da)
+
+## Model-based vs Model-free Reinforcement Learning
+1. [https://medium.com/@jonathan_hui/rl-model-based-reinforcement-learning-3c2b6f0aa323
+](https://medium.com/@jonathan_hui/rl-model-based-reinforcement-learning-3c2b6f0aa323)
+
+## On-Policy vs Off-Police
+1. [SARSA versus Q-learning – on-policy or off?](https://subscription.packtpub.com/book/data/9781789345803/1/ch01lvl1sec13/sarsa-versus-q-learning-on-policy-or-off)
+
+## Deep Reinforcment Learning
+1. [A Beginner's Guide to Deep Reinforcement Learning](https://pathmind.com/wiki/deep-reinforcement-learning)

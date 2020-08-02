@@ -403,3 +403,10 @@ There are many amazing videos on Reinforcement Learning. I particularly like the
 1. [A Beginner's Guide to Deep Reinforcement Learning](https://pathmind.com/wiki/deep-reinforcement-learning)
 2. [A short video on Deep-Q Learning. Concise and gives a good introduction](https://www.youtube.com/watch?v=wrBUkpiRvCA)
 3. [(6min) Replay Memory Explained - Experience for Deep Q-Network Training](https://www.youtube.com/watch?v=Bcuj2fTH4_4)
+
+
+## Deep reinforcement Learning in practice
+1. [AlphaGo Zero: Starting from scratch](https://deepmind.com/blog/article/alphago-zero-starting-scratch)
+2. [Deep-RL learns to play Starcraft](https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii)
+3. [Playing Atari with Deep Reinforcement Learning](https://deepmind.com/research/publications/playing-atari-deep-reinforcement-learning)
+4. [(News Article, yet informative) Deep reinforcement learning: Teaching robots like children](https://techxplore.com/news/2020-04-deep-robots-children.html)

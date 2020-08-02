@@ -339,6 +339,8 @@ For Convolutational Networks I usually would refer to the same book as I did for
 6. [Differentiable Image Parameterizations)[https://distill.pub/2018/differentiable-parameterizations/)
 7. [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/)
 
-# Lecture 16
+# Lecture 16 - Reinforcement Learning
+Reinforcment learning (RL) is a big part of Machine Learning and as itself such a huge field that we can only introduce the very basics of it in this course. Our lecture series focuses on defining the basic terminology that is required to understand what RL is about. We are discussing Q-Learning as example of off-policy learning that you'll have to implement in the HWs next to the simple Multi-Armed-Bandit Problem. Lastly, we show how we can combine Deep Learning and RL for so-called Deep Reinforcement Learning that for examples allows RL-Agents to play atari games based on only video input.
+
 
 1. [Reinforcment Learning for self-study, several links:](https://github.com/hollygrimm/markov-decision-processes)

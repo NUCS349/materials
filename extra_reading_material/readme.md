@@ -359,6 +359,7 @@ There are many amazing videos on Reinforcement Learning. I particularly, I like 
 
 ## Markov-Decision-Process
 1. [Reinforcement Learning : Markov-Decision Process (Part 1)](https://towardsdatascience.com/introduction-to-reinforcement-learning-markov-decision-process-44c533ebf8da)
+2. [(13min) Concise introduction to Markov-Decision Processes](https://www.youtube.com/watch?v=U24wlvcxXBg)
 
 ## Model-based vs Model-free Reinforcement Learning
 1. [https://medium.com/@jonathan_hui/rl-model-based-reinforcement-learning-3c2b6f0aa323
@@ -367,5 +368,10 @@ There are many amazing videos on Reinforcement Learning. I particularly, I like 
 ## On-Policy vs Off-Police
 1. [SARSA versus Q-learning – on-policy or off?](https://subscription.packtpub.com/book/data/9781789345803/1/ch01lvl1sec13/sarsa-versus-q-learning-on-policy-or-off)
 
+## Q-Learning (Part of your Homework)
+1. [(10min) Great, overview video](https://www.youtube.com/watch?v=qhRNvCVVJaA)
+2. [(30min) A bit longer, but great video by Edureka](https://www.youtube.com/watch?v=DhdUlDIAG7Y)
+
 ## Deep Reinforcment Learning
 1. [A Beginner's Guide to Deep Reinforcement Learning](https://pathmind.com/wiki/deep-reinforcement-learning)
+2. [A short video on Deep-Q Learning. Concise and gives a good introduction](https://www.youtube.com/watch?v=wrBUkpiRvCA)

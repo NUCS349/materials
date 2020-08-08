@@ -429,6 +429,8 @@ There are many amazing videos on Reinforcement Learning. I particularly like the
 ## Fun stuff on RNNs
 1. [Visualizing memorization in RNNs](https://distill.pub/2019/memorization-in-rnns/)
 2. [(MUST READ) The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+3. [How Business Can Benefit from Recurrent Neural Networks: 8 Major Applications](https://theappsolutions.com/blog/development/recurrent-neural-networks/)
+4. [Overview of Recurrent Neural Networks And Their Applications ](https://analyticsindiamag.com/overview-of-recurrent-neural-networks-and-their-applications/)
 
 # Lecture 18 - Generative Adversarial Network
 

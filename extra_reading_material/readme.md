@@ -414,6 +414,22 @@ There are many amazing videos on Reinforcement Learning. I particularly like the
 
 # Lecture 17 - Recurrent Neural Networks
 
+## Video
+1. [(22min) (Amazing watch) A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
+2. [(10min) Illustrated Guide to Recurrent Neural Networks: Understanding the Intuition](https://www.youtube.com/watch?v=LHXXI4-IEns)
+3. [(12min) Illustrated Guide to Recurrent Neural Networks: Understanding the Intuition](https://www.youtube.com/watch?v=8HyCNIVRbSU)
+4. [(26min) Brandon Rohrers Guide to RNN nad LSTM is great (maybe the best)](https://www.youtube.com/watch?v=WCUNPb-5EYI)
+
+## Reading
+1. [Wikipedia on RNNs is pretty comprehensive](https://en.wikipedia.org/wiki/Recurrent_neural_network)
+2. [Understanding LSTM Networks (from 2015, very early blog but maybe the best?)](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+3. [Illustrated Guide to Recurrent Neural Networks](https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9)
+4. [Understanding LSTM and its diagrams](https://medium.com/mlreview/understanding-lstm-and-its-diagrams-37e2f46f1714)
+
+## Fun stuff on RNNs
+1. [Visualizing memorization in RNNs](https://distill.pub/2019/memorization-in-rnns/)
+2. [(MUST READ) The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
 # Lecture 18 - Generative Adversarial Network
 
 ## Video
@@ -428,3 +444,11 @@ There are many amazing videos on Reinforcement Learning. I particularly like the
 3. [A Gentle Introduction to Generative Adversarial Networks (GANs)](https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/)
 4. [Generative Adversarial Networks Explained with a Classic Spongebob Squarepants Episode](https://medium.com/@awjuliani/generative-adversarial-networks-explained-with-a-classic-spongebob-squarepants-episode-54deab2fce39)
 5. [A Beginner's Guide to Generative Adversarial Networks (GANs)](https://pathmind.com/wiki/generative-adversarial-network-gan)
+6. [GANs from Zero to Hero: Best Resources for Newcomers](https://towardsdatascience.com/gans-from-zero-to-hero-best-resources-for-newcomers-a7c7cf1024b5)
+7. [10 Lessons I Learned Training GANs for one Year](https://towardsdatascience.com/10-lessons-i-learned-training-generative-adversarial-networks-gans-for-a-year-c9071159628)
+
+## Fun stuff with GANs
+1. [18 Impressive Applications of Generative Adversarial Networks (GANs)](https://machinelearningmastery.com/impressive-applications-of-generative-adversarial-networks/)
+2. [Jon Hui: GAN — Some cool applications of GAN](https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900)
+3. [Top 5 Interesting Applications of GANs for Every Machine Learning Enthusiast!](https://www.analyticsvidhya.com/blog/2019/04/top-5-interesting-applications-gans-deep-learning/)
+4. [GanLab like the Tensorflow Playground](https://poloclub.github.io/ganlab/)

@@ -410,3 +410,21 @@ There are many amazing videos on Reinforcement Learning. I particularly like the
 2. [Deep-RL learns to play Starcraft](https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii)
 3. [Playing Atari with Deep Reinforcement Learning](https://deepmind.com/research/publications/playing-atari-deep-reinforcement-learning)
 4. [(News Article, yet informative) Deep reinforcement learning: Teaching robots like children](https://techxplore.com/news/2020-04-deep-robots-children.html)
+
+
+# Lecture 17 - Recurrent Neural Networks
+
+# Lecture 18 - Generative Adversarial Network
+
+## Video
+1. [(30min) From the inventor of GANs himself: Neurips 2016](https://www.youtube.com/watch?v=9JpdAg6uMXs)
+2. [(10min) Gentle Intro to Generative Adversarial Networks (GANs)](https://www.youtube.com/watch?v=3z8VSpBL6Vg)
+3. [(10min) Understand the Math and Theory of GANs in ~ 10 minutes](https://www.youtube.com/watch?v=J1aG12dLo4I)
+4. [(60min) If you liked Lex Fridman's RL lecture, you will enjoy this podcast between Lex and Ian Goodfellow](https://www.youtube.com/watch?v=Z6rxFNMGdn0)
+
+## Reading
+1. [The GAN Wikipedia page actually gives a quite nice overview](https://en.wikipedia.org/wiki/Generative_adversarial_network)
+2. [Pretty amazing blog, Part 1](https://blog.zakjost.com/post/gans_overview_1/),[Part 2](https://blog.zakjost.com/post/gans_overview_2/), [Part 3](https://blog.zakjost.com/post/gans_overview_3/)
+3. [A Gentle Introduction to Generative Adversarial Networks (GANs)](https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/)
+4. [Generative Adversarial Networks Explained with a Classic Spongebob Squarepants Episode](https://medium.com/@awjuliani/generative-adversarial-networks-explained-with-a-classic-spongebob-squarepants-episode-54deab2fce39)
+5. [A Beginner's Guide to Generative Adversarial Networks (GANs)](https://pathmind.com/wiki/generative-adversarial-network-gan)

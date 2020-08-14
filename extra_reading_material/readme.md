@@ -454,3 +454,18 @@ There are many amazing videos on Reinforcement Learning. I particularly like the
 2. [Jon Hui: GAN — Some cool applications of GAN](https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900)
 3. [Top 5 Interesting Applications of GANs for Every Machine Learning Enthusiast!](https://www.analyticsvidhya.com/blog/2019/04/top-5-interesting-applications-gans-deep-learning/)
 4. [GanLab like the Tensorflow Playground](https://poloclub.github.io/ganlab/)
+
+# Lecture 20 - Graph CNNs
+
+## Video lectures: 
+
+1. [Introduction by Thomas Kipf (one of the early adoptors of the technique)](https://www.youtube.com/watch?v=9jSFBcptZ9A)
+2. [Introduction to Graph Convolutiational Networks](https://www.youtube.com/watch?v=2KRAOZIULzw)
+3. [GraphCNNs in Medical Imaging (very comprehensive)](https://www.youtube.com/watch?v=P4yTKhcQqOk&list=PL_VeUGLULXQux1dV4iA3XuMX6AueJmGGa&index=10&t=0s)
+
+## Blog entries:
+1.["The original posting:"](https://tkipf.github.io/graph-convolutional-networks/)
+2. [Great Tutorial (Really give this a read. This helps a lot and is super insightful)](https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d)
+
+## Reading
+For very interested students I recommend a look into Thomas Kipf's PhD thesis which you can find here: https://pure.uva.nl/ws/files/46900201/Thesis.pdf

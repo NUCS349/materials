@@ -455,6 +455,12 @@ There are many amazing videos on Reinforcement Learning. I particularly like the
 3. [Top 5 Interesting Applications of GANs for Every Machine Learning Enthusiast!](https://www.analyticsvidhya.com/blog/2019/04/top-5-interesting-applications-gans-deep-learning/)
 4. [GanLab like the Tensorflow Playground](https://poloclub.github.io/ganlab/)
 
+# Lecture 19 - Non-Negative Matrix Factorization
+
+1. [Wikipedia on NMF](https://en.wikipedia.org/wiki/Non-negative_matrix_factorization)
+2. [Great Blog on NMF (must read)](https://blog.acolyer.org/2019/02/18/the-why-and-how-of-nonnegative-matrix-factorization/)
+3. [Comparing NMF to SVD (interesting read)](https://medium.com/@nixalo/comp-linalg-l2-topic-modeling-with-nmf-svd-78c94330d45f)
+
 # Lecture 20 - Graph CNNs
 
 ## Video lectures: 
